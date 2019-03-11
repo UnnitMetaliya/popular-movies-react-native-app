@@ -6,7 +6,7 @@ Popular Movies is a react native application built for both Android and iOS. It 
 
 ### iOS
 
-Coming Soon
+![ios1](/relative/path/to/img.jpg?raw=true "ios1")
 
 ### Android
 
